@@ -23,7 +23,7 @@ public class EjemploGitHub {
 
         Persona persona = new Persona();
 
-        persona.setNombre("Carlos");
+        persona.setNombre("Carlos Luis");
         persona.setApellido("Cardoso");
         persona.setEdad(23);
         persona.setSexo("M");
