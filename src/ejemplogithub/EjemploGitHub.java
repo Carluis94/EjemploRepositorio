@@ -32,7 +32,8 @@ public class EjemploGitHub {
         apellido = persona.getApellido();
         edad = persona.getEdad();
         sexo = persona.getSexo();
-
+        System.out.println("");
+        System.out.println("DATOS");
         System.out.println(nombre+" "+apellido+" edad: "+edad+" sexo: "+sexo);
 
     }
